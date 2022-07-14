@@ -1,7 +1,7 @@
 {
     "1":{
         "name":"Mc Donalds",
-        "image":"/images/shop_images/1.jpg",
+        "image":"images/shop_images/1.jpg",
         "goods":{
                 "1":{
                     "name" : "МакЧікен Бекон",
@@ -33,7 +33,7 @@
         },
     "2":{
         "name":"KFC",
-        "image":"/images/shop_images/2.jpg",
+        "image":"images/shop_images/2.jpg",
         "goods":{
                 "1":{
                     "name" : "Чізбургер",
@@ -67,7 +67,7 @@
         },
     "3":{
         "name":"Big burger",
-        "image":"/images/shop_images/3.jpg",
+        "image":"images/shop_images/3.jpg",
         "goods":{
                 "1":{
                     "name" : "Біг бургер",
